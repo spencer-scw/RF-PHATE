@@ -1,6 +1,7 @@
 graphtools
 numpy
 pandas
+scprep @ git+https://github.com/jamisonorton/scprep
 phate
 scikit_learn
 scipy
